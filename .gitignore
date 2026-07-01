@@ -20,9 +20,6 @@ yarn-error.log*
 # local env files
 .env*.local
 
-# prisma
-/prisma/dev.db
-/prisma/dev.db-journal
 
 # typescript
 *.tsbuildinfo
